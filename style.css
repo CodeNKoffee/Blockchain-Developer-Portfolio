@@ -265,6 +265,27 @@ HERO
   clip-path: circle();
 }
 
+
+/*
+
+FOOTER
+
+*/
+footer {
+  background-color: #ff4bed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer span {
+  font-size: 24px;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+}
+
+
 @media(max-width: 1048px) {
   .nav__link {
     margin: 0 24px;
