@@ -6,6 +6,9 @@ Full Stack Design/Frontend Development Mini Project
 
 The main purspose for this project was is to put my UX/UI & Frontend skills into test where I'll be creating a simple hero section for a personal website from scratch
 
+## Preview
+![Blockchain Developer Portfolio - Header](./assets/preview.png)
+
 ## Getting Started
 
 ### Dependencies
